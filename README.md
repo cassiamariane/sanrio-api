@@ -1,0 +1,1 @@
+<img src="./front/img/sanrio.png">
